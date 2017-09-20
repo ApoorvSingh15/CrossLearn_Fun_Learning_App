@@ -1,0 +1,3 @@
+About the App
+
+The app has been designed in android and is a fun application which includes a dictionary and fun games to help a user increase his vocab and help him to learn in a fun way. There is a great room for future improvement in the new updates as well as inclusion of new games. As an addition to the original puzzle we have also experimented with a tic tac toe game to make it more interactive and fun. 
